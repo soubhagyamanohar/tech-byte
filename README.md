@@ -132,5 +132,3 @@ Presented by team tech-byte :
 2.Soubhagya Manohar Muddebihal
 3.Srushti Basaragi
 4.Vachanashree
-
-
