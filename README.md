@@ -128,6 +128,8 @@ The use of machine learning algorithms such as the random forest regression mode
 <summary>CONCLUSION</summary>
 <br>In conclusion, the results of this study demonstrate the potential of machine learning algorithms in predicting soil moisture levels and provide valuable insights for farmers in managing their crops. Further research can explore the use of additional variables and techniques to improve the accuracy of the predictions and optimize crop management practices.
 </details>
+</details>
+
 https://github.com/SamruddhiHiremath
 
 https://github.com/soubhagyamanohar
